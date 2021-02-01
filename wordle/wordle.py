@@ -24,7 +24,7 @@ FONT_SIZE_MIN = 10        # the smallest font of a word
 FONT_SIZE_MAX = 300       # the largest font of a word, might go slightly above this value
 DESIRED_HW_RATIO = 0.618  # height/widht ratio of the canvas
 QUADTREE_MINSIZE = 5      # minimal height-width of the box in quadTree partition
-FONT_NAME = "fonts/DroidSansMono.ttf"   # the font (true type) used to draw the word shapes
+FONT_NAME = "fonts/ELEPHNT.TTF"   # the font (true type) used to draw the word shapes
 
 
 class Token:
